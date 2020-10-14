@@ -54,10 +54,10 @@
                         <constraints>
                             <constraint firstItem="fmo-Ho-Ntg" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="45" id="4mD-Df-pIH"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="fTj-6n-Agc" secondAttribute="bottom" constant="39" id="DP6-IZ-Jt8"/>
-                            <constraint firstItem="fmo-Ho-Ntg" firstAttribute="centerX" secondItem="fTj-6n-Agc" secondAttribute="centerX" id="KCv-wn-kHg"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fTj-6n-Agc" secondAttribute="trailing" constant="30" id="dcd-uo-1ki"/>
+                            <constraint firstItem="fmo-Ho-Ntg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="125" id="gzB-IH-EZh"/>
                             <constraint firstItem="fTj-6n-Agc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="i9l-jQ-eN2"/>
-                            <constraint firstItem="fmo-Ho-Ntg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="125" id="p2d-qQ-bpX"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fmo-Ho-Ntg" secondAttribute="trailing" constant="125" id="um1-gv-1Ss"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
